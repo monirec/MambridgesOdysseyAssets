@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Decals/outside_wnd_decal01"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" ".25"
+}

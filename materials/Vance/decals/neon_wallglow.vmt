@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Decals/neon_wallglow"
+	"$decal" 1
+	"$translucent" 1	
+	"$decalscale" 0.50
+}
+

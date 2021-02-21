@@ -1,0 +1,6 @@
+"DecalModulate"
+{
+	"$decal" 1
+	"$basetexture" "Decals/ths_meatsign3"
+	"$decalscale" 0.10
+}

@@ -1,0 +1,8 @@
+"DecalModulate"
+{
+	"$baseTexture" "Decals/ths_lava4"
+	"$selfillum" "1"
+	"$decal" 1
+	"$decalscale" 0.50
+
+}

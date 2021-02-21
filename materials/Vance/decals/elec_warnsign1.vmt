@@ -1,0 +1,6 @@
+"DecalModulate"
+{
+	"$decal" 1
+	"$basetexture" "Decals/elec_warnsign1"
+	"$decalscale" 0.16
+}

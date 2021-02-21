@@ -1,0 +1,9 @@
+"DecalModulate"
+{
+	"$baseTexture" "Decals/copper_lava"
+	"$selfillum" "1"
+	"$additive" 1
+	"$decal" 1
+	"$decalscale" 0.50
+	"$surfaceprop" "metal"
+}

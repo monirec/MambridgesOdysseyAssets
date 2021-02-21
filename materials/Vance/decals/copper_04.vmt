@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "Decals/copper_04"
+	"$translucent" 1
+//	"$selfillum" "1"
+//	"$additive" 1
+	"$decal" 1
+	"$decalscale" 0.50
+	"$surfaceprop" "metal"
+}

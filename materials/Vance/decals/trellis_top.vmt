@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "decals/trellis_top"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .25
+	"$surfaceprop" "wood_crate"
+}
