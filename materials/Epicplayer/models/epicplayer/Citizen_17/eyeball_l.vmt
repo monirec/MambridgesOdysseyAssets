@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "models/epicplayer/Citizen_17/eyeball_l"
+	"$iris" "models/epicplayer/Citizen_17/pupil_l"
+}

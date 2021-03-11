@@ -1,0 +1,9 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/citadel_metalwall101b_spacestation"
+	"$surfaceprop" "metal"
+	"%keywords" "borealis"
+	"$bumpmap" "metal/metalwall101b_normal"
+}
+

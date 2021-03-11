@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/epicplayer/Citizen_17/glint"
+	"$additive" 1
+	"$model" 1
+}

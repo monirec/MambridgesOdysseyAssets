@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	// Original shader: TranslucentSpecularSphericalEnvMap
+	$translucent 1
+	"$additive" 1
+	"$envmap" "models/epicplayer/Citizen_17/glass"
+	"$envmapsphere" 1
+	"$model" 1
+}
