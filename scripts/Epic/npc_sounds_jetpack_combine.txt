@@ -1,0 +1,43 @@
+"NPC_JetpackCombine.Start"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/combine_gunship/attack_start2.wav"
+}
+
+"NPC_JetpackCombine.Loop"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/combine_gunship/dropship_onground_loop1.wav"
+}
+
+
+"NPC_JetpackCombine.Stop"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/combine_gunship/attack_stop2.wav"
+}
+
+"NPC_JetpackCombine.Footstep"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+//	"soundlevel"  "SNDLVL_60dB"
+	"soundlevel"  "SNDLVL_NONE"
+
+	"wave"	"npc/combine_soldier/gear1.wav"
+}
